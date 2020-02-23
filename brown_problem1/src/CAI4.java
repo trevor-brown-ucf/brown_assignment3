@@ -10,7 +10,6 @@ public class CAI4
 
 	public static void quiz()									// "Create a method called "quiz" that contains the program logic"
 	{
-		SecureRandom secureRandom = new SecureRandom();
 		int i=0;
 		int right=0;
 		int cont=1;
